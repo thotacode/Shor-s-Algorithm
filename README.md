@@ -60,4 +60,4 @@ References -
 Shor, P.W. (1994). Algorithms for quantum computation: Discrete logarithms and factoring. Proceedings 35th Annual Symposium on Foundations of Computer Science.
 For more details, refer to the GitHub repository.
 
-credits: Pranav Thota, Rithul C, Anshul Rath, Aaditya Rajput
+credits: Rajas Bamb, Pranav Thota, Rithul C, Anshul Rath, Aaditya Rajput
