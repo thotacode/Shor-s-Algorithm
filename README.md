@@ -49,6 +49,8 @@ input = 15.
 The factors are [3,5]
 The notebook includes visualization of the quantum circuit and measurement results:
 
+Additional function if Interested - 
+
 plot_histogram(result.get_counts())
 This generates a histogram to visualize the probability distribution of measurement outcomes.
 
